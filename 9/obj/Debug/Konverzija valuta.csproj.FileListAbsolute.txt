@@ -1,0 +1,27 @@
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe.config
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.pdb
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Form1.resources
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Properties.Resources.resources
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csproj.GenerateResource.Cache
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.exe
+C:\Users\Aleksandra\Desktop\FAX\MNRb C#\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.pdb
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe.config
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.exe
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.pdb
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.pdb
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csprojResolveAssemblyReference.cache
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Form1.resources
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Properties.Resources.resources
+C:\Users\Vanja\Desktop\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csproj.GenerateResource.Cache
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe.config
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.exe
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.pdb
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.exe
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\bin\Debug\Konverzija valuta.pdb
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csprojResolveAssemblyReference.cache
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Form1.resources
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija_valuta.Properties.Resources.resources
+C:\Users\Vanja\Desktop\vs\Konverzija valuta\Konverzija valuta\obj\Debug\Konverzija valuta.csproj.GenerateResource.Cache
